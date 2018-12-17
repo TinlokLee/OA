@@ -1,0 +1,1 @@
+from djangp.contrib import admin
